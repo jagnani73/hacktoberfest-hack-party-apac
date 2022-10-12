@@ -1,1 +1,1 @@
-# Hacktoberfest Hack Party 🎉
+# Hacktoberfest Hack Party: APAC Edition 🎉
